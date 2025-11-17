@@ -1,9 +1,9 @@
 # MIST-4610-Project-2
 
-# MIST Project Two
 Group Members:
 Group 3: Grey Mendenhall, Lizzie Stewart, Karwan Gardi
-Links:
+Links: https://github.com/lizzie-stewart/MIST-4610-Project-2
+
 
 
 # Data Set Description
@@ -67,7 +67,16 @@ GROUP BY genre
 HAVING COUNT(*) > 30
 ORDER BY avg_popularity DESC;
 
+# Dashboard
+<img width="718" height="335" alt="Screenshot 2025-11-17 at 6 40 02 PM" src="https://github.com/user-attachments/assets/f49ecbc2-971a-42a1-af16-08674803bebb" />
+
+<img width="433" height="382" alt="Screenshot 2025-11-17 at 6 39 52 PM" src="https://github.com/user-attachments/assets/85e3f91d-b877-447d-8bbe-26149560f181" />
 
 
+<img width="390" height="101" alt="Screenshot 2025-11-17 at 6 39 32 PM" src="https://github.com/user-attachments/assets/003e7887-4ee1-480f-a43e-1f46c415ec6e" />
 
+<img width="388" height="81" alt="Screenshot 2025-11-17 at 6 39 43 PM" src="https://github.com/user-attachments/assets/45dad48e-e14c-4352-aa01-c41c65ce9068" />
 
+<img width="390" height="101" alt="Screenshot 2025-11-17 at 6 39 32 PM" src="https://github.com/user-attachments/assets/ddcecd10-42e9-4f79-b549-30a2f358a9c7" />
+
+<img width="384" height="86" alt="Screenshot 2025-11-17 at 6 39 19 PM" src="https://github.com/user-attachments/assets/978b9165-aa37-4447-852b-89234fe18018" />
